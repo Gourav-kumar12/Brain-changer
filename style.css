@@ -1,0 +1,276 @@
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+  }
+  
+  li {
+    float:left;
+
+  }
+  
+  li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 30px 50px;
+    text-decoration: none;
+    font-size: 32px;
+    font-weight: bold;
+  }
+  
+  li a:hover {
+    background-color: rgb(231, 218, 218);
+    color: black;
+    border-radius: 22px;
+  }
+  .container{
+padding: 5px;
+  }
+  .text-1{
+    padding: 5px;
+  }
+  .text-2{
+    padding: 5px;
+    width: 580px;
+    margin-left: 36px;
+  }
+  .text-3{
+      
+    margin: 88px;
+    margin-top: 48px;
+
+  }
+  .mid{
+    padding: 5px;
+    display: flex;
+  }
+  .mid-2{
+    padding: 5px;
+    display: flex;
+  }
+  .image img{
+    padding: 5px;
+    width: 412px;
+    border-radius: 47px;
+    margin-top: -71px;
+}
+  
+  .image2 img{
+    padding: 5px;
+    width: 430px;
+    border-radius:47px ;
+    margin-top: 50px;
+    height: 450px;
+  }
+  h1{
+    padding: 5px;
+    font-size: 38px;
+    color: #c1ff63;
+
+  }
+  h2{
+    font-size: 60px;
+
+  }
+  h6{
+    font-size: 60px;
+    color: #c1ff63;
+    margin-top: -36px;
+  }
+  h3{
+    padding: 5px;
+    margin-top: -93px;
+    font-size: 24px;
+  }
+  h4{
+    padding: 5px;
+
+  }
+  h5{
+    padding: 5px;
+    font-size: 20px;
+    font-weight: 100;
+  }
+  p{
+    padding: 5px;
+    font-size: 20px;
+  }
+  p2{
+    padding: 5px;
+
+  }
+  button {
+    padding: 25px;
+    border-radius: 27px;
+    background-color: #c1ff63;
+    font-size: 15px;
+    font-weight:bold ;
+    border: 2px solid white;
+  }
+button :hover{
+      background-color: grey;
+      cursor:pointer;
+  }
+  .text-3{
+      padding: 2px;
+  }
+.btn{
+    margin: 32px;
+    width: 159px;
+    margin-left: 122px;
+}
+.mid-3 img
+{
+    margin-top: -45px;
+}
+.mid-4{
+    text-align: center;
+    margin-top: -32px;
+}
+h7{
+font-size: 55px;
+color: #c1ff63;
+}
+h8{
+    font-size: 32px;
+}
+.mid-5{
+    display: flex;
+
+}
+.box-1{
+    padding: 44px;
+    margin: 37px;
+    height: 394px;
+    background-color:#fce4ec7a;
+    font-size: 22px;
+    border-radius: 22px;
+    font-weight: bold;
+}
+.mid-5 :hover{
+    background-color: rgb(73, 71, 71);
+    color: white;
+}
+button :hover{
+    background-color: lightcoral;
+}
+.box-2{
+    padding: 39px;
+    margin: 37px;
+    background-color: #fce4ec7a;
+    border-radius: 22px;
+    font-size: 22px;
+    font-weight: bold;
+}
+.box-3
+{
+    padding: 39px;
+    border-radius: 22px;
+    margin: 37px;
+    font-size: 22px;
+    background-color: #fce4ec7a;
+
+    font-weight: bold;
+}
+.box-4{
+    padding: 39px;
+    margin: 37px;
+    border-radius: 22px;
+    font-size: 22px;
+    background-color: #fce4ec7a;
+
+    font-weight: bold;
+}
+h9{
+    font-size: 22px;
+    margin-top: 5px;
+}
+.box11{
+    padding: 24px;
+    text-align: center;
+
+}
+.box12{
+    padding: 24px;
+    text-align: center;
+
+}
+.box13{
+    padding: 24px;
+    text-align: center;
+
+}
+.video-box{
+    display: flex;
+    padding: 28px;
+}
+.logo img{
+    width: 98px;
+    padding: 48px;
+    text-align: center;
+    margin-right: 42px;
+}
+.logo{
+    background-color: grey;
+}
+.contect{
+    display: flex;
+    background-color: grey;
+}
+.f-1{
+    display: block;
+}
+.f-2{
+    display: block;
+    padding: 22px;
+}
+.f-2 a{
+    display: block;
+    padding: 17px;
+    text-decoration: none;
+    color: rgb(19, 18, 18);
+}
+.f-2 a:hover{
+    background-color: black;
+    color: white;
+}
+
+.f-3{
+    display: block;
+    margin-top: -14px;
+}
+.f-3 a{
+    display: block;
+    padding: 17px;
+    text-decoration: none;
+    color: rgb(14, 13, 13);
+
+}
+.f-3 a:hover{
+    background-color: black;
+    color: white;
+}
+
+.f-4{
+    display: block;
+    
+}
+.f-4 a{
+    display: block;
+    padding: 12px;
+}
+.f-4 a:hover{
+    background-color: black;
+    color: white;
+}
+form{
+    display: inline-grid;
+    padding: 40px;
+
+}
+.btn2{
+    padding: 12px;
+}
